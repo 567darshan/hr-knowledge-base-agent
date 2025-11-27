@@ -21,6 +21,17 @@ Answering the same questions again and again wastes HR time and delays responses
 ---
 
 ## 🎯 Solution – HR Knowledge Base Agent
+🧠 Solution – HR Knowledge Base Agent
+(Your current text)
+
+-
+
+⚠️ Note on API Usage
+This project requires an OpenAI API key with available credits to run embeddings and chat responses.
+Due to current credit limitations, live inference responses are disabled, but the full application,
+vector database setup, and Streamlit UI are complete and ready to run once credits are available.
+
+
 
 This agent:
 
