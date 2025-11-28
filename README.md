@@ -3,7 +3,7 @@
 An AI **Knowledge Base Agent** that answers employee questions about HR policies  
 (leave, benefits, working hours, probation, etc.) using internal HR documents.
 
-This project is built as part of an **AI Agent Internship Challenge**.
+This project is built as part of an **AI Agent **.
 
 ---
 
